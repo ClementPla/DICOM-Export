@@ -18,7 +18,7 @@ By nature, there might be inaccuracies in the date and laterality associated wit
 ## Installation
 
 ```bash
-git clone https://github.com/clement-q/DICOM-Export.git
+git clone https://github.com/ClementPla/DICOM-Export.git
 ```
 
 ```bash
