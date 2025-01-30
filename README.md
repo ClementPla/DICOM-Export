@@ -1,6 +1,6 @@
 # Convenient Zeiss DICOM Exporter
 
-A simple tool to export Zeiss OCT scans from zip files to organized DICOM files.
+A simple tool to export Zeiss OCT scans from zip files to sequences of png Bscans.
 
 ## Usage
 
