@@ -7,7 +7,7 @@ A simple tool to export Zeiss OCT scans from zip files to organized DICOM files.
 Go to the [notebook](export.ipynb) and change the cell containing:
 
 ```python
-root = Path("DCM/")  # Folder that contains all the zip files
+root = Path("samples/")  # Folder that contains all the zip files
 ```
 
 Set this path to your folder containing all the exported volumes from the Zeiss machine as .zip files (i.e., all patients). It can be relative to the DICOM-Export folder or absolute. Make sure to indicate the path with / and not \ (even on Windows system)
